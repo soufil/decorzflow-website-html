@@ -216,7 +216,7 @@ p {
 }
 
 .btn--outline:hover a {
-    color: #fff;
+    color: #000;
 }
 
 /* ==========================
@@ -1840,7 +1840,7 @@ General Wrapper
     gap: 68px;
     border-radius: 41px;
     background: #2D3339;
-    color: #FFF;
+    color: #000;
     font-family: Inter;
     font-size: 14px;
     font-style: normal;
